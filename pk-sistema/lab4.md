@@ -47,12 +47,12 @@
 
 | Название тестирования | Наименование оборудования для теста | Результат |
 |----------------------|-------------------------------------|-----------|
-| Тест процессора | Процессор Intel Core i3 3220 | 1084 баллов |
-| Многопотоковый тест | Процессор Intel Core i3 3220 | 2895 баллов |
-| Тест RAM | Intel Core i3 3220 + Intel Ivy Bridge + DIMM PC3-10700 | 41082 баллов |
-| Тест глобальной памяти | Intel Core i3 3220 + Intel Ivy Bridge + DIMM PC3-10700 | Тест выполнен |
-| Latency Memory Performance | Intel Core i3 3220 + Intel Ivy Bridge + DIMM PC3-10700 | Тест выполнен |
-| Тест видео/DirectX 3D | Встроенная графика | Texture: 1864 FPS; Texture (Fullscreen): 276 FPS; Particles 3D: 21 FPS; Vertex: 54 FPS; Billboard: 958 FPS |
+| Тест процессора | Процессор Intel Core i3 3220 | 1102 баллов |
+| Многопотоковый тест | Процессор Intel Core i3 3220 | 2833 баллов |
+| Тест RAM | ⦁	Intel Core i3 3220 + Intel Ivy Bridge + DIMM PC3-12800 | 41649 баллов |
+| Тест глобальной памяти | ⦁	Intel Core i3 3220 + Intel Ivy Bridge + DIMM PC3-12800 | Тест выполнен |
+| Latency Memory Performance | ⦁	Intel Core i3 3220 + Intel Ivy Bridge + DIMM PC3-12800 | Тест выполнен |
+| Тест видео/DirectX 3D | Встроенная графика | Texture: 2096 FPS; Texture (Fullscreen): 171 FPS; Particles 3D: 22 FPS; Vertex: 54 FPS; Billboard: 969 FPS |
 | Тест жёсткого диска | Жёсткий диск C:\ | Sequential Write: 130.27 МБ/с (CPU: 1%); Sequential Read: 162.62 МБ/с |
 | Video Benchmark | Встроенная графика | 56647 баллов |
 
@@ -87,7 +87,7 @@
 | BIOS | K01 v03.08 |
 | Процессор | Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz (4 CPUs), ~3.3GHz |
 | Память | 4096 MB RAM |
-| Файл подкачки | 5257 МБ использовано, 1048 МБ свободно |
+| Файл подкачки | 5233 МБ использовано, 1048 МБ свободно |
 | Версия DirectX | DirectX 12 |
 
 ---
